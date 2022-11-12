@@ -1,1 +1,1 @@
-# linkedinclone
+https://app.patika.dev/pinarmmt
